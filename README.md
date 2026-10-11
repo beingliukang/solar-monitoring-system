@@ -1,6 +1,6 @@
-# Helios Solar Monitoring System
+# Escanor Solar Monitoring System
 
-Helios is a Java web application for monitoring residential solar installations. It provides homeowner and administrator dashboards for solar production, household consumption, battery storage, registered devices, and system alerts. A background simulator supplies changing telemetry for local demonstrations.
+Escanor is a Java web application for monitoring residential solar installations. It provides homeowner and administrator dashboards for solar production, household consumption, battery storage, registered devices, and system alerts. A background simulator supplies changing telemetry for local demonstrations.
 
 ## Features
 
