@@ -54,7 +54,7 @@ public class Main {
         }
 
         System.out.println("============================================================================");
-        System.out.println("     HELIOS - Solar Energy Monitoring System (Jakarta EE 10 / Tomcat 10.1)");
+        System.out.println("     Escanor - Solar Energy Monitoring System (Jakarta EE 10 / Tomcat 10.1)");
         System.out.println("============================================================================");
         System.out.println(" Server initialized on port: " + port);
         System.out.println(" Portal URL:     http://localhost:" + port + "/");
