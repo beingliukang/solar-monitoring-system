@@ -18,7 +18,7 @@
             </svg>
         </div>
         <div>
-            <div class="brand-text">HELIOS</div>
+            <div class="brand-text">Escanor</div>
             <div class="brand-subtext">Solar Energy OS</div>
         </div>
     </div>
