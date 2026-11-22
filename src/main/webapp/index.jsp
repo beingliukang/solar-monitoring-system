@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Helios | Intelligent Solar Energy Monitoring System</title>
+    <title>Escanor | Intelligent Solar Energy Monitoring System</title>
     
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/theme.css">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/base.css">
@@ -133,7 +133,7 @@
                     <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
                 </svg>
             </div>
-            <span class="brand-text">HELIOS</span>
+            <span class="brand-text">Escanor</span>
         </div>
         <div style="display:flex; align-items:center; gap:1rem;">
             <button class="icon-btn theme-toggle-btn" title="Toggle Theme">
@@ -219,7 +219,7 @@
 
     <!-- Footer -->
     <footer style="padding: 2.5rem; text-align: center; border-top: 1px solid var(--border-subtle); color: var(--text-muted); font-size: 0.85rem;">
-        Helios Solar Energy Monitoring System &bull; Jakarta Servlet 6.0 &bull; Tomcat 10.1 &bull; MySQL 8 JDBC &bull; HikariCP
+        Escanor Solar Energy Monitoring System &bull; Jakarta Servlet 6.0 &bull; Tomcat 10.1 &bull; MySQL 8 JDBC &bull; HikariCP
     </footer>
 
     <script src="${pageContext.request.contextPath}/assets/js/ui.js"></script>
