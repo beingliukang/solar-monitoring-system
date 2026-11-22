@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sign In | Helios Solar Energy OS</title>
+    <title>Sign In | Escanor Solar Energy OS</title>
     
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/theme.css">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/base.css">
@@ -84,7 +84,7 @@
                     </svg>
                 </div>
                 <div>
-                    <h2 style="font-size: 1.45rem; line-height: 1;">HELIOS</h2>
+                    <h2 style="font-size: 1.45rem; line-height: 1;">Escanor</h2>
                     <span style="font-size: 0.75rem; color: var(--solar-amber); font-weight: 700; letter-spacing: 0.08em;">SOLAR OS</span>
                 </div>
             </div>
