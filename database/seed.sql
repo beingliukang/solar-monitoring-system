@@ -12,7 +12,7 @@ USE solar_db;
 
 -- 1. Insert Initial System Settings
 INSERT INTO system_settings (setting_key, setting_value, updated_at) VALUES
-('system_name', 'Helios Intelligent Solar Monitor', NOW()),
+('system_name', 'Escanor Intelligent Solar Monitor', NOW()),
 ('tariff_per_kwh', '0.18', NOW()),
 ('low_battery_threshold', '20.0', NOW()),
 ('low_production_threshold', '30.0', NOW()),
