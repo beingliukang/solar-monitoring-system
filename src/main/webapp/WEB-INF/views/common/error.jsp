@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>System Notice | Helios Solar</title>
+    <title>System Notice | Escanor Solar</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/theme.css">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/base.css">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/components.css">
