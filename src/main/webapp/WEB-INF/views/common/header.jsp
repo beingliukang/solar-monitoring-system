@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>${pageTitle != null ? pageTitle : "Helios"} | Solar Energy Monitoring</title>
+    <title>${pageTitle != null ? pageTitle : "Escanor"} | Solar Energy Monitoring</title>
     
     <!-- Design System CSS -->
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/theme.css">
