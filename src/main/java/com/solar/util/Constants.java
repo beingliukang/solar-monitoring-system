@@ -24,7 +24,7 @@ public final class Constants {
     public static final String SETTING_REFRESH_INTERVAL_SEC = "refresh_interval_sec";
 
     // Default Configuration Values
-    public static final String DEFAULT_SYSTEM_NAME = "Helios Solar Energy Monitoring";
+    public static final String DEFAULT_SYSTEM_NAME = "Escanor Solar Energy Monitoring";
     public static final double DEFAULT_TARIFF_PER_KWH = 0.18;
     public static final double DEFAULT_LOW_BATTERY_THRESHOLD = 20.0; // percent
     public static final double DEFAULT_LOW_PRODUCTION_THRESHOLD = 30.0; // percent drop
